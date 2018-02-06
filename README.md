@@ -28,24 +28,27 @@ The full reports can be found in the `output` directory in this repo.
 
 # Highlights
 
+This is a summary of my biggest take-aways from my analysis. I highlight most
+(but not all) of the different kinds of plots available in each full report.
+
 ## Tweet Volume
 
 Despite being twins, the Twitter timelines of my brother and I tell relatively
 different stories about us. It is clear that he is much more active than me.
 The fact that he created an account well before me is the first indication of this.
 
-![](img/TonyElhabr-elhabro-cntall.png)
+![](img/TonyElHabr-elhabro-cntall.png)
 
 But, even when comparing our tweet volume across fixed time frames, it's still clear that
 he is much more active than me.
 
-![](img/TonyElhabr-elhabro-cntbymonth.png)
+![](img/TonyElHabr-elhabro-cntbymonth.png)
 
-![](img/TonyElhabr-elhabro-cntbywday.png)
+![](img/TonyElHabr-elhabro-cntbywday.png)
 
-![](img/TonyElhabr-elhabro-cnttimeofday.png)
+![](img/TonyElHabr-elhabro-cnttimeofday.png)
 
-## TweetContent and Popularity
+## Tweet Content and Popularity
 
 The "behavior" of Bayless and Smith on Twitter is particularly interesting.
 (And, if you're familiar with these larger-than-life personalities, perhaps
@@ -87,7 +90,7 @@ negativity!
 
 ![](img/BarstoolBigCat-PFTCommenter-sentdiffs.png)
 
-For comparison's sake, here is what the same plot looks like for my brother and myself.
+For comparison's sake, here is what the same plot looks like for me and my brother.
 
 ![](img/TonyElHabr-elhabro-sentdiffs.png)
 
