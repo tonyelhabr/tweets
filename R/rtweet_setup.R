@@ -22,7 +22,7 @@ twitter_token <- create_token(
 
 ## path of home directory
 home_directory <- path.expand("C:/Users/aelhabr/Dropbox/data_science/projects")
-home_directory <- path.expand("O:/_other/code/tony")
+home_directory <- path.expand("O:/_other/projects/tweets")
 
 ## combine with name for token
 file_name <- file.path(home_directory, "tweets/twitter_token.rds")
